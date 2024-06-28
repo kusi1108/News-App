@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">News App</string>
+    <string name="view_pager_description">Swipe left or right to navigate through the news sections</string>
+
 </resources>
